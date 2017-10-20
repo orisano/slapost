@@ -1,0 +1,4 @@
+required = [
+    "github.com/tcnksm/ghr",
+    "github.com/mitchellh/gox",
+]
